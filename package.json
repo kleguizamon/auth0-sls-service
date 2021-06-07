@@ -1,8 +1,8 @@
 {
   "name": "auth0-sls-service",
   "version": "1.0.0",
-  "author": "Ariel Weinberger <ariel@codingly.io>",
-  "description": "Demonstration of protecting API gateway endpoints with auth0",
+  "author": "Kevin Leguizamon",
+  "description": "Auth0 App - Serverless Framework",
   "license": "MIT",
   "dependencies": {
     "jsonwebtoken": "^8.1.0"
